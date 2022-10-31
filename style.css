@@ -1,0 +1,21 @@
+:root{
+    --white:rgb(236, 236, 236);
+    --yellow:rgb(255, 208, 0);
+    --black:rgb(58, 58, 58);
+    --box-shodow:0 .5rem 1rem rgba(0,0,0,.1);
+    --border:solid 2px #999;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    text-transform: capitalize;
+    text-align: none;
+}
+
+html{
+    overflow-x: hidden;
+}
